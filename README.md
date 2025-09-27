@@ -1,9 +1,9 @@
-# [CloudSecEncryptor](https://github.com/vksundararajan/CloudSecEncryptor)
+# CloudSecEncryptor
 
 CloudSecEncryptor is a comprehensive Python-based security application designed to provide end-to-end file protection and secure cloud storage capabilities. The project combines advanced encryption techniques with cloud integration to ensure maximum data security.
 
 
-## Features
+### Features
 
 - **File Encryption & Decryption**: Securely encrypt files at the byte level using industry-standard Fernet encryption, ensuring complete data protection before cloud storage
 
@@ -16,7 +16,7 @@ CloudSecEncryptor is a comprehensive Python-based security application designed 
 - **Google Drive Integration**: Seamless cloud storage functionality with secure upload and download capabilities, maintaining encrypted file integrity throughout the process
 
 
-### [Setting Up Google Drive API](https://github.com/vksundararajan/CloudSecEncryptor/tree/imp/foundation?tab=readme-ov-file#setting-up-google-drive-api)
+### Setting Up Google Drive API
 
 To get started with CloudSecEncryptor, you'll need to set up a Google Drive API project. Begin by visiting the [Google Cloud Console](https://console.cloud.google.com/) and creating a new project using the project picker. Give your project a descriptive name and click create to initialize it.
 
