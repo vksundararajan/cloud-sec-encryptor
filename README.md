@@ -1,4 +1,4 @@
-# CloudSecEncryptor
+# Cloud Security Encryptor
 
 CloudSecEncryptor is a comprehensive Python-based security application designed to provide end-to-end file protection and secure cloud storage capabilities. The project combines advanced encryption techniques with cloud integration to ensure maximum data security.
 
